@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = woshiyaoyao1993@126.com
+	name = YaoYao Zhou
